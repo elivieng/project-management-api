@@ -1,0 +1,9 @@
+label, p, a {
+    font-size: 0.9rem;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    font-size: 0.9rem;
+}
